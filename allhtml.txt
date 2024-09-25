@@ -1,0 +1,31 @@
+    <main>
+        <section class="page-header">
+            <div class="container">
+                <h1>Sign In</h1>
+            </div>
+        </section>
+
+        <section class="signin-form">
+            <div class="container">
+                <form id="signin-form">
+                    <div class="form-group">
+                        <label for="email">Email</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Password</label>
+                        <input type="password" id="password" name="password" required>
+                    </div>
+                    <button type="submit" class="btn-primary">Sign In</button>
+                </form>
+                <div class="signin-options">
+                    <p>Or sign in with:</p>
+                    <div class="social-signin">
+                        <button class="google-signin">Google</button>
+                        <button class="facebook-signin">Facebook</button>
+                    </div>
+                    <p>Don't have an account? <a href="signup.html">Sign Up</a></p>
+                </div>
+            </div>
+        </section>
+    </main>
