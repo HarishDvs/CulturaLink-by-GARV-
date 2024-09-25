@@ -1,4 +1,4 @@
-# CulturaLink-by-GARV-
+# CulturaLink by GARV-
 CulturaLink is a dynamic job portal dedicated to connecting talented individuals with unique opportunities in the realm of Indian arts, culture, and heritage. Our platform serves as a bridge between traditional and modern cultural sectors, offering a diverse range of job listings, from classical dance performers to contemporary art curators 
 
 
@@ -25,17 +25,3 @@ CulturaLink is a specialized job portal focused on Indian arts, culture, and her
 -Read industry insights on the Blog page
 -Find answers to common questions in the FAQ section
 
-CulturaLink/
-│
-├── index.html
-├── jobs.html
-├── apply.html
-├── events.html
-├── blog.html
-├── faq.html
-├── login.html
-├── signup.html
-├── styles.css
-├── script.js
-└── images/
-    └── [image files]
